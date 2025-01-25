@@ -1,0 +1,8 @@
+.apc
+.settings
+neuralnetwork
+.cproject
+.project
+*.xml
+*.zip
+*.app
